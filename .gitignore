@@ -1,0 +1,4 @@
+users.csv
+users.txt
+
+*.env*
